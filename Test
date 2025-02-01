@@ -1,6 +1,0 @@
-git clone https://github.com/your-username/camping-site.git
-cd camping-site
-echo "Hello World" > index.html
-git add .
-git commit -m "Initial commit"
-git push origin main
